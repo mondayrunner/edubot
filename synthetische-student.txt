@@ -1,0 +1,19 @@
+Prompt 1:
+Ik wil gebruikersinterviews maken om gebruikersonderzoek te doen naar HBO-studenten die AI willen leren. Hiervoor wil ik een enquête maken. Maak 10 vragen voor dit interview. Richt je op vragen die recente ervaringen benadrukken. Beschrijf ook per vraag hoe de antwoorden zullen helpen om gebruikersbehoeften, gedragingen en motivaties te begrijpen.
+
+Prompt 2:
+Maak 4 persona's. Elke persona is een HBO-student die AI wil leren en de veranderingen in hun toekomstige werkveld. Beschrijf de persona. Geef ze een naam, leeftijd en studierichting. Voeg voor elke persona ook toe hoe het hun dagelijks leven beïnvloedt en wat de impact is. Voeg ook een citaat van de persona toe over het probleem. Presenteer de resultaten in een tabel.
+
+Prompt 3:
+Speel vervolgens de gegenereerde persona's na voor de volgende prompt. Beantwoord de gegenereerde interviewvragen zoals elke persona zou doen, in hun eigen woorden en toon. Formatteer het resultaat als een tabel.
+
+Prompt 4:
+Cluster de persona's op basis van de interviewresultaten. Geef de bijbehorende persona's weer voor elke cluster en geef een korte beschrijving, evenals gemeenschappelijke kenmerken en de meest vergelijkbare antwoorden.
+
+Prompt 5:
+Geef voor elke vraag, voor elk antwoord van elke persona, een Net Sentiment Score (NSS) als nummer. Presenteer je resultaat in CSV-formaat.
+
+Prompt 6:
+Vat elke persona samen op basis van zijn/haar interviewresultaten. Presenteer de bijgewerkte beschrijving.
+
+
